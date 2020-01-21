@@ -1,6 +1,6 @@
 ---
 name: feature # Markdown syntax for emoji doesn't seem to work
-about: This is a bug report
+about: File searcher
 title: "21-01-2020: This is a new feature"
 labels: ":feat :feat"
 assignees: mueenou
