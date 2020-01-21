@@ -7,7 +7,7 @@ assignees: mueenou
 ---
 
 <!-- This is a new feature -->
-## This is a new pull request
+## This is a new pull request, ouai ouai ouai
 
 <!-- The expectations -->
 ## This pull request will add all the latest features that were done in the last sprint.
